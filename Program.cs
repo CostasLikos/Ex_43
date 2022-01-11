@@ -107,7 +107,7 @@ namespace Ex_43
 
 			if (demerit > 12)
 			{
-				Console.WriteLine("License suspended!1");
+				Console.WriteLine("License suspended!");
 			}
 
 
